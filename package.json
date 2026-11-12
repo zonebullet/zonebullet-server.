@@ -1,0 +1,9 @@
+{
+  "name": "zonebullet-peer-server",
+  "version": "1.0.0",
+  "description": "Servidor de sinalização PeerJS do Zone Bullet",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "peer": "^1.0.2" }
+}
